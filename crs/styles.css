@@ -14,6 +14,7 @@ body {
 h1 {
     font-family: var(--font-family);
     font-weight: bolder;
+    margin-top: 30px;
 }
 
 .about-section {
